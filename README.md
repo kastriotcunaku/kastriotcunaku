@@ -1,4 +1,4 @@
-<h1 align="center">Amadou Sall</h1>
+<h1 align="center">Kastriot Çunaku</h1>
 
 <p align="center">
   <a href="https://kastriotcunaku.com/">Website</a> •
