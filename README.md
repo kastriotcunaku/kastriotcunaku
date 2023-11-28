@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://kastriotcunaku.com/">Website</a> •
   <a href="https://www.linkedin.com/in/kastriotcunaku/">LinkedIn</a> •
-  <a href="https://twitter.com/kastriotcunaku">Twitter</a>
+  <a href="https://kodesync.com/">KodeSync</a>
 </p>
 
 ---
