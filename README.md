@@ -1,4 +1,4 @@
-<h1 align="center">Kastriot Çunaku</h1>
+<h1 align="center">Kastriot Cunaku</h1>
 
 <p align="center">
   <a href="https://kastriotcunaku.com/">Personal Website</a> •
